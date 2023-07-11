@@ -12,3 +12,9 @@ We realized an analytic and numerical analysis about the following:
 - Monotony on the edges
 
 Note: If you wanted to check the code, please download the .nb file and run on your computer
+
+References:
+
+Masaya Yamaguti, Masayoshi Hata, Jun Kigami. Mathematics of Fractals (Translations of Mathematical Monographs). American Mathematical Society, 1998. [[1]](https://books.google.com.mx/books?hl=es&lr=&id=0V3rwO2_Ab4C&oi=fnd&pg=PP13&ots=55U0m-Ir3W&sig=qQhQCeTJSPRuJ6xav909cbFlokk&redir_esc=y#v=onepage&q&f=false)
+
+Ricardo Sáenz, Alejandra Gaitán. A Family of Singular Functions on the Interval. Universidad de Colima, 2013.
