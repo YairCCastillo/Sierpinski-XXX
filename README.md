@@ -1,5 +1,5 @@
 # Sierpinski-XXX
- An analysis of the harmonic function of a variation of the Sierpinski triangle fractal, which we call Sierpinski's Triangle XXX
+ An analysis of the harmonic function of a variation of the Sierpinski triangle fractal, which we call Sierpinski's Triangle XXX.
 
  The Sierpinski's Triangle XXX is a variation from the original Sierpinski's Triangle, in the follow Figure we show the first 3 iterations:
 
@@ -18,3 +18,5 @@ References:
 Masaya Yamaguti, Masayoshi Hata, Jun Kigami. Mathematics of Fractals (Translations of Mathematical Monographs). American Mathematical Society, 1998. [[1]](https://books.google.com.mx/books?hl=es&lr=&id=0V3rwO2_Ab4C&oi=fnd&pg=PP13&ots=55U0m-Ir3W&sig=qQhQCeTJSPRuJ6xav909cbFlokk&redir_esc=y#v=onepage&q&f=false)
 
 Ricardo Sáenz, Alejandra Gaitán. A Family of Singular Functions on the Interval. Universidad de Colima, 2013.
+
+Year - 2016
