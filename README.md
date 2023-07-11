@@ -5,4 +5,10 @@
 
 ![Sierpinski XXX](https://github.com/YairCCastillo/Sierpinski-XXX/assets/49602985/4483e6e2-8e06-4818-ad31-bdbd27bf9e2d)
 
+We realized an analytic and numerical analysis about the following:
+- Hausdorff Dimension
+- Harmonic and Self similar Structure
+- Harmonic Function
+- Monotony on the edges
+
 Note: If you wanted to check the code, please download the .nb file and run on your computer
